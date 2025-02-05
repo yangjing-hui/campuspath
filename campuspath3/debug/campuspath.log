@@ -1,0 +1,4 @@
+﻿  Reading Qt configuration (D:/Download/qt/5.9/msvc2017_64/bin/qmake)
+cl : 命令行 warning D9002: 忽略未知选项“-std=c++0x”
+  main.cpp
+  campuspath.vcxproj -> C:\Users\Administrator\Desktop\campuspath3\debug\untitled6.exe
